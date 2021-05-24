@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name ="nombre_boton_0">0</string>
+    <string name ="nombre_boton_1">1</string>
+    <string name ="nombre_boton_2">2</string>
+    <string name ="nombre_boton_3">3</string>
+    <string name ="nombre_boton_4">4</string>
+    <string name ="nombre_boton_5">5</string>
+    <string name ="nombre_boton_6">6</string>
+    <string name ="nombre_boton_7">7</string>
+    <string name ="nombre_boton_8">8</string>
+    <string name ="nombre_boton_9">9</string>
+    <string name ="nombre_boton_c">C</string>
+    <string name ="nombre_boton_.">.</string>
+    <string name ="nombre_boton_suma">+</string>
+    <string name ="nombre_boton_resta">-</string>
+    <string name ="nombre_boton_x">X</string>
+    <string name ="nombre_boton_division">/</string>
+    <string name ="nombre_boton_igual">=</string>
+    <string name ="nombre_boton_res">Resultado</string>
+</resources>
